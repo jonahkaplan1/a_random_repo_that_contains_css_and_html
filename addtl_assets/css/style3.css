@@ -24,6 +24,10 @@ a:focus {
     transition: all 0.3s;
 }
 
+a:link {
+  color: red;
+}
+
 .navbar {
     padding: 15px 10px;
     background: #fff;
