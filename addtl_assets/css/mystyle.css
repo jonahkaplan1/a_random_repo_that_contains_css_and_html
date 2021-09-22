@@ -23,3 +23,12 @@ footer {
     margin-left: auto;
     margin-right: auto;
 }
+
+
+li {
+    color: #7386D5;
+}
+
+a:link {
+  color: red;
+}
